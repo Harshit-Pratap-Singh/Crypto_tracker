@@ -1,3 +1,3 @@
-A simple crypto tracker using React.
+A simple crypto tracker using ReactJS.
 
-U can view this app here - https://crypto-tracker-w.herokuapp.com/
+You can visit the web-app here - https://crypto-tracker-w.herokuapp.com/
